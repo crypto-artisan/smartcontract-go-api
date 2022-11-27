@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+.env
+
+smart-contracts/node_modules
+smart-contracts/.key
+smart-contracts/.DS_Store
+smart-contracts/.idea
+smart-contracts/.env
+smart-contracts/.env.json
+smart-contracts/contracts/*-Flatten.sol
